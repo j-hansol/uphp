@@ -20,5 +20,5 @@
 ## 환경 구성을 위한 기반 프로그램
 위와 같은 환경을 구성하기 위해서는 아래와 같은 프로그램이 필요합니다.
 
-* [virtualbox]: https://www.virtualbox.org/ "오라클 버추얼박스"
+* link: [오라클 버추얼박스][https://www.virtualbox.org/]
 *
