@@ -56,7 +56,7 @@
 
 특히 7번은 매우 중요합니다. DNS 서버 주소를 모를 경우 '명령 프롬프트'에셔 아래의 명령을 입력하여 DNS 주소를 확인합니다.
 
-```Windows
+```bash
 ipconfig /all
 ```
 
@@ -67,6 +67,8 @@ ipconfig /all
 [pig482/uphp](https://app.vagrantup.com/pig482/boxes/uphp) 링크를 클릭하여 페이지에 접속하면 tjfcl 방법이 간단하게 나와 있습니다. 너무 간단하게 나와 추가적인 설명이 필요할 듯하여 아래와 같이 설명을 하겠습니다.
 
 ### vagrant box를 저장할 폴더를 생성합니다.
+생성된 폴더에서 다음 명령을 수행합니다.
+
 ### '명령 프롬프트' 를 통해 아래의 명령을 실행합니다.
 ```Windows
 vagrant init pig482/uphp --box-version 1.0
